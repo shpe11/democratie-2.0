@@ -8,7 +8,7 @@
 ## implementare: 
 ### -SMS se poate asocia un numar de telefon cetateanului cu care poate vota(cetatenii care nu au telefon le ia statul telefoane cu butoane si abonament cel mai ieftin special doar pt. SMS-uri)
 ### -blockchain - pe viitor cand se digitalizeaza mai tot
-### -de exemplu daca alesii intr-un an de zile au rata de trecere a legilor sub un anumit nivel, se refac alegerile (evident tot prin SMS)
+### -de exemplu daca alesii intr-un an de zile au rata de trecere a legilor sub un anumit nivel, se refac alegerile (evident tot prin SMS); ceva similar si pentru fiecare parlamentar, daca nu are vre-o lege votata timp de 6luni/un an, inlocuit
 ### -legile prezentate la TV/massmedia/social/web(minim ore obligatoriu per saptamana) in care cei care le fac le exemplica si incearca sa te convinga + opozitia care incearca se te convinga ca nu sunt bune
 ### -votare per saptamana
 
