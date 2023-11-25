@@ -1,5 +1,5 @@
 # PUTEREA POPORULUI
-## noua forma de guvernamant: alesii fac legile, poporul le voteaza
+## noua forma de guvernamant: alesii fac legile, poporul le voteaza(SMS)
 
 ## beneficii:
 ### -o mai buna informarea a cetateanului cu privire la legi
