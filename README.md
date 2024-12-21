@@ -1,16 +1,19 @@
-# PUTEREA POPORULUI
-## noua forma de guvernamant: alesii fac legile, poporul le voteaza(SMS)
+# DEMOCRATIE 2.0
+## democratie participativa: poporul are drept de VETO asupra legilor: alesii fac legile, poporul le voteaza(blockchain)
+### dreptul de VETO al poporului poate fi solicitat la orice lege de catre orice parlamentar
+### maxim o votare per saptamana
+### daca sunt mai multe solicitari atunci poporul voteaza, si alege si urmatoarea votare
+### fiecare parlamentar poate solicita o votare max odata pe an, daca votarea respectiva nu trece, face pauza 1an
+### legile care se refera la drepturile celor care fac legile sunt automat trecute prin procesul de VETO(adica evident ca trebuie votate de catre popor majorarea salarilor parlamentarilor, si nu de catre parlamentari)
+### -legile prezentate la TV/massmedia/social/web(minim ore obligatoriu per saptamana) in care cei care le fac le exemplica si incearca sa te convinga + opozitia care incearca se te convinga ca nu sunt bune - timp pro/contra egal
 
 ## beneficii:
 ### -o mai buna informarea a cetateanului cu privire la legi
-### -contolul total al poporului(nu doar odata la 4 ani cand poate fi usor manipulat cu promisiuni)
+### -contolul mai mare al poporului(nu doar odata la 4 ani cand poate fi usor manipulat cu promisiuni)
 
 ## implementare: 
 ### -SMS se poate asocia un numar de telefon cetateanului cu care poate vota(cetatenii care nu au telefon le ia statul telefoane cu butoane si abonament cel mai ieftin special doar pt. SMS-uri)
 ### -blockchain - pe viitor cand se digitalizeaza mai tot
-### -de exemplu daca alesii intr-un an de zile au rata de trecere a legilor sub un anumit nivel, se refac alegerile (evident tot prin SMS); ceva similar si pentru fiecare parlamentar, daca nu are vre-o lege votata timp de 6luni/un an, inlocuit
-### -legile prezentate la TV/massmedia/social/web(minim ore obligatoriu per saptamana) in care cei care le fac le exemplica si incearca sa te convinga + opozitia care incearca se te convinga ca nu sunt bune
-### -votare per saptamana
 
 ## alte idei:
 ### -obligativitatea la vot(cu amenda modica: 50RON/luna daca nu votezi de exemplu)
