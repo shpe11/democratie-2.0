@@ -1,5 +1,5 @@
 # DEMOCRATIE 2.0
-## democratie participativa: poporul are drept de VETO asupra legilor: alesii fac legile, poporul le voteaza(blockchain)
+## democratie participativa: poporul are drept de VETO asupra legilor: alesii fac legile, poporul le poate invalida la cererea oricarui parlamentar - prin SMS sau blockchain
 ### dreptul de VETO al poporului poate fi solicitat la orice lege de catre orice parlamentar
 ### maxim o votare per saptamana
 ### daca sunt mai multe solicitari atunci poporul voteaza, si alege si urmatoarea votare
