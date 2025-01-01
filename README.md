@@ -2,6 +2,7 @@
 ## democratie participativa: poporul are drept de VETO asupra legilor: alesii fac legile, poporul le poate invalida la cererea oricarui parlamentar - prin SMS sau blockchain
 ### dreptul de VETO al poporului poate fi solicitat la orice lege de catre orice parlamentar
 ### maxim o votare per saptamana, sau pe luna
+### fiecare votare(chiar daca e VETO pe lege sau referendum) a poporului se aplica instant dupa ce se valideaza automat in max 3 zile(in acele 3 zile se poate invalida daca exista fraudare)
 ### daca sunt mai multe solicitari atunci poporul voteaza, si alege si urmatoarea votare
 ### fiecare parlamentar poate solicita oricand o votare cu mentiunea ca daca nu trece, o sa piarda locul de parlamentar
 ### legile care se refera la drepturile celor care fac legile sunt automat trecute prin procesul de VETO(adica evident ca trebuie votate de catre popor majorarea salarilor parlamentarilor, si nu de catre parlamentari)
